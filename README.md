@@ -3,4 +3,4 @@
 # Primeiro desafio do bootcamp Santander
 
 ## Links Úteis
-[Sintaxe Basica Markdown](https://www.markdownquide.org/basic-sintax/)
+[Sintaxe Basica Markdown](https://www.markdownquide.org/basic-syntax/)
